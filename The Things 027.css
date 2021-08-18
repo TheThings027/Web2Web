@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "OrangeJuice";
+	src: url("orange juice.ttf");
+}
+
+.TitleDiv {text-align: center;}
+
+.Title {font-family: OrangeJuice;}
